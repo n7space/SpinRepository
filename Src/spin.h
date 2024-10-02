@@ -249,7 +249,7 @@ typedef	Lextok *Lexptr;
 #define	CHAN	 64		/* not */
 #define STRUCT	128		/* user defined structure name */
 
-#define SOMETHINGBIG	65536
+#define SOMETHINGBIG	262144
 #define RATHERSMALL	512
 #define MAXSCOPESZ	1024
 
